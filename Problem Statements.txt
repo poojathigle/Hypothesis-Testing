@@ -4,4 +4,6 @@ Task1 - IS there any significant difference in the
 Task2 - IS there any significant difference in the 
         spending before and after marriage ?
 
+Task3 - In Supermarket file, is the Segment of the orders related to the category?
+        (Hint: Chi Sqaure Test)
  
